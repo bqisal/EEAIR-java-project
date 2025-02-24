@@ -1,0 +1,12 @@
+Invalid user input (letters instead of numbers).
+
+Solution: Added input validation using try-catch.
+
+There were problems with Decryption on Vigenere Ciphere without some help 
+
+Problem: Non-alphabetic characters (spaces, numbers) should not be changed.
+
+I decided to add a check for Character.isLetter().
+
+
+And as you can see I have big problem with GitHub
